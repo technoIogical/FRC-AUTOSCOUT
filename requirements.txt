@@ -1,0 +1,12 @@
+ultralytics
+supervision
+opencv-python
+flet
+flet-video
+duckdb
+supabase
+pandas
+polars
+ydata-profiling
+loguru
+numpy
